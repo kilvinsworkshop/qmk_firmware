@@ -1,0 +1,4 @@
+*	@JaredEgolf
+*.js 	@js-owner
+*.go	jaredegolf@github.com
+/bin/	@binteam
